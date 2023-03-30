@@ -1,7 +1,9 @@
 let aprendiendo = "aprender con git"
 
-let participantes = [
-    alumno, 
+let participantes = {
+    nombre, 
     edad,
-]
+    
+}
+  
  
